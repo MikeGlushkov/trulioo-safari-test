@@ -23,6 +23,6 @@ export class AppComponent implements OnInit {
 
   // tslint:disable-next-line:typedef
   handleVerificationResponse(res: any) {
-    console.log(res);d
+    console.log(res);
   }
 }
